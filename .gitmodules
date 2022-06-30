@@ -1,0 +1,4 @@
+[submodule "oscarivanxmarts/pruebass"]
+	path = oscarivanxmarts/pruebass
+	url = git@github.com:oscarivanxmarts/pruebass.git
+	branch = Currency
